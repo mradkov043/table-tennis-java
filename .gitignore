@@ -36,3 +36,11 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore Maven wrapper files (if you remove them)
+.mvn/
+mvnw
+mvnw.cmd
